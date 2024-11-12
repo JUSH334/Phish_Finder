@@ -1,0 +1,6 @@
+INFO:root:Email: Dear user, your account has been compromised. Clic...
+Classification: Legitimate (Confidence: 50.97%)
+
+INFO:root:Email: Hi, please find attached the minutes of the last m...
+Classification: Phishing (Confidence: 50.95%)
+
