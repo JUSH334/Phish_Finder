@@ -11,3 +11,9 @@ What I've done is used chatgpt to ask it questions and help with code. I used Co
 the "combined dataset" because it runs faster on there than a local pc/desktop
 
 Just need to implement/"train" the datasets in the link above.
+
+
+Below is the CoLab that I did in order to process the dataset (note: I used chatgpt to help explain through this process cause it is confusing honestly)
+Essentially, this is where the datasets were trained then I downloaded them and implemented them in the code above:
+
+https://colab.research.google.com/drive/1bfIHE5OqqVWFRESMVKAszHlULag_8Z9Y?usp=sharing
